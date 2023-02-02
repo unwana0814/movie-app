@@ -4,7 +4,7 @@ import MovieCard from './Moviecard';
 import './App.css';
 import SearchIcon from './search.svg';
 
-const API_URL = 'http://www.omdbapi.com?apikey=f288d6ea';
+const API_URL = 'https://www.omdbapi.com?apikey=f288d6ea';
 
 const movie1 = {
 "Title":"Barbie as The Princess and the Pauper",
